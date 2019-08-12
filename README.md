@@ -1,6 +1,6 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/viant/drone-gcloud/blob/master/LICENSE)
 
-Script to remove `null` character from an audiofile
+Script to remove `null` characters from the metadata of an audiofile
 
 ## Requirements
 
